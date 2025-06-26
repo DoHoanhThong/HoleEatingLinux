@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473907629215",
+    "project_id": "hole-master-a1488",
+    "storage_bucket": "hole-master-a1488.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473907629215:android:11c6e2282827da1419e6aa",
+        "android_client_info": {
+          "package_name": "com.cdtg.hole1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKTcX9C8VT7dOCTbYHbUMD6Ca5j0aiJag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

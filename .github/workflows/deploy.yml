@@ -16,7 +16,7 @@ jobs:
         with:
           host: 206.189.92.184
           username: ubuntu
-          key: ${{ secrets.GITHUB_TOKEN }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
             cd /home/ubuntu/Project/HoleEatingLinux

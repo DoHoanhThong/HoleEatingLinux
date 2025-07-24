@@ -1,4 +1,4 @@
-Library: D:\GitHub\HoldMaster\EatingHole1\Temp\BurstOutput\Data\Plugins\lib_burst_generated
+Library: D:\GitHub\cloneHoleEat\Temp\BurstOutput\Data\Plugins\lib_burst_generated
 --platform=Linux
 --backend=burst-llvm-18
 --target=X64_SSE2
@@ -8,10 +8,10 @@ Library: D:\GitHub\HoldMaster\EatingHole1\Temp\BurstOutput\Data\Plugins\lib_burs
 --float-precision=Standard
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=D:\GitHub\HoldMaster\EatingHole1\Temp\Burst
+--temp-folder=D:\GitHub\cloneHoleEat\Temp\Burst
 --key-folder=D:/UnityVersionDownload/6000.1.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
---decode-folder=D:\GitHub\HoldMaster\EatingHole1\Library\Burst
---output=D:\GitHub\HoldMaster\EatingHole1\Temp\BurstOutput\Data\Plugins\lib_burst_generated
+--decode-folder=D:\GitHub\cloneHoleEat\Library\Burst
+--output=D:\GitHub\cloneHoleEat\Temp\BurstOutput\Data\Plugins\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -101,10 +101,10 @@ Library: D:\GitHub\HoldMaster\EatingHole1\Temp\BurstOutput\Data\Plugins\lib_burs
 --float-precision=Standard
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=D:\GitHub\HoldMaster\EatingHole1\Temp\Burst
+--temp-folder=D:\GitHub\cloneHoleEat\Temp\Burst
 --key-folder=D:/UnityVersionDownload/6000.1.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
---decode-folder=D:\GitHub\HoldMaster\EatingHole1\Library\Burst
---output=D:\GitHub\HoldMaster\EatingHole1\Temp\BurstOutput\Data\Plugins\lib_burst_generated
+--decode-folder=D:\GitHub\cloneHoleEat\Library\Burst
+--output=D:\GitHub\cloneHoleEat\Temp\BurstOutput\Data\Plugins\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10

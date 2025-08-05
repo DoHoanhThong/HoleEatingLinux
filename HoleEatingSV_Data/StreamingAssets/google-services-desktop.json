@@ -7,20 +7,22 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:473907629215:android:11c6e2282827da1419e6aa",
+        "mobilesdk_app_id": "1:473907629215:ios:e1eb65e849b2587119e6aa",
         "android_client_info": {
           "package_name": "com.cdtg.hole1"
         }
       },
-      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAKTcX9C8VT7dOCTbYHbUMD6Ca5j0aiJag"
+          "current_key": "AIzaSyASGNvqTTuMwHks9gBUr7ckUGBcAa5Mn8Y"
         }
       ],
       "services": {
+        "analytics_service": {
+          "status": 0
+        },
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "status": 1
         }
       }
     }
